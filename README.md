@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tulloch022
+- 👋 Hi, I’m Kevin Tulloch.
 - 👀 Front-end development with HTML, CSS, and JavaScript.
 
 <!---
