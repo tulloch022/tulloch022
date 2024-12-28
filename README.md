@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! I'm a passionate Test Automation Engineer specializing in creating efficient, scalable, and reliable test solutions using Playwright.
+Welcome to my GitHub profile! I'm a passionate Test Automation Engineer specializing in creating efficient, scalable, and reliable test solutions using Playwright.
 
 ## About Me
 
