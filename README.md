@@ -11,7 +11,7 @@ I have a strong background in software testing and quality assurance, with a foc
 - Collaborating with developers, product managers, and QA teams to enhance the user experience.
 
 ## Featured Projects
-### [The Internet Test Automation Suite](https://github.com/tulloch022/aotomating-theinternet)
+### [The Internet Test Automation Suite](https://github.com/tulloch022/automating-theinternet)
 - A Playwright-based test suite for the popular demo site, **The Internet**.
 - Includes 15+ tests covering:
   - Core functionality (e.g., login/logout, form submission).
