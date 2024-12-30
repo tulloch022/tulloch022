@@ -21,7 +21,7 @@ I have a strong background in software testing and quality assurance, with a foc
 
 
 
-### [JSONPlaceholder API Test Suite](https://github.com/tulloch/automating-jsonapi)
+### [JSONPlaceholder API Test Suite](https://github.com/tulloch022/automating-jsonapi)
 - Automated API tests for [JSONPlaceholder](https://jsonplaceholder.typicode.com/), a mock REST API.
 - Tests include:
   - Validation of GET, POST, PUT, and DELETE endpoints.
