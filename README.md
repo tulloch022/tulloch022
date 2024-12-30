@@ -1,14 +1,15 @@
 # Welcome to my GitHub profile!
 
-I'm a passionate Test Automation Engineer specializing in creating efficient, scalable, and reliable test solutions using Playwright.
+I'm an aspiring Test Automation Engineer passionate about creating efficient, scalable, and reliable test solutions using Playwright.
 
 ## About Me
-I have a strong background in software testing and quality assurance, with a focus on building robust test automation frameworks that improve development workflows and ensure software quality. My experience includes:
+I have been honing my skills in software testing and quality assurance through hands-on projects and self-driven learning. My focus is on building robust test automation frameworks that enhance development workflows and ensure software quality. Here are some of the skills and experiences I’ve developed through my projects:
+
 - Writing and maintaining automated test scripts.
-- Designing test plans and test cases.
-- Implementing CI/CD pipelines for automated testing.
-- Diagnosing and resolving test failures to maintain system reliability.
-- Collaborating with developers, product managers, and QA teams to enhance the user experience.
+- Designing and executing test plans and test cases.
+- Exploring CI/CD pipelines for integrating automated testing.
+- Debugging and resolving test failures to maintain system reliability.
+- Collaborating with mock workflows to simulate cross-functional teamwork.
 
 ## Featured Projects
 ### [The Internet Test Automation Suite](https://github.com/tulloch022/automating-theinternet)
