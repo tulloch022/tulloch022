@@ -12,7 +12,7 @@ I have been honing my skills in software testing and quality assurance through h
 - Collaborating with mock workflows to simulate cross-functional teamwork.
 
 ## Featured Projects
-### [The Internet Test Automation Suite](https://github.com/tulloch022/automating-theinternet)
+### [The Internet Automated Test Suite](https://github.com/tulloch022/automating-theinternet)
 - A Playwright-based test suite for the popular demo site, **The Internet**.
 - Includes 15+ tests covering:
   - Core functionality (e.g., login/logout, form submission).
