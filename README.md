@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile!
-
 I'm a Test Automation Engineer passionate about creating efficient, scalable, and reliable test solutions. 
 
 ## About Me
