@@ -12,10 +12,10 @@ I have been honing my skills in software testing and quality assurance through h
 ## Featured Projects
 ### [The Internet Automated Test Suite](https://github.com/tulloch022/automating-theinternet)
 - A Playwright-based test suite for the popular demo site, **The Internet**.
-- Includes 15+ tests covering:
+- Includes 15 tests covering:
   - Core functionality (e.g., login/logout, form submission).
   - Edge cases (e.g., invalid inputs, error handling).
-  - Advanced Playwright features (e.g., file uploads, API testing).
+  - Advanced Playwright features (e.g., file uploads).
 - Designed to showcase professional-grade reporting, modularity, and scalability.
 
 
