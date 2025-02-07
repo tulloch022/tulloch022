@@ -15,4 +15,3 @@
   - Validation of GET, POST, PUT, and DELETE endpoints.
   - Response structure and data integrity checks.
   - Error handling for invalid requests.
-- Built using Playwright's API testing capabilities with detailed reporting.
