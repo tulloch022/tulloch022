@@ -4,7 +4,6 @@
 - Includes 15 tests covering:
   - Core functionality (e.g., login/logout, form submission).
   - Edge cases (e.g., invalid inputs, error handling).
-  - Advanced Playwright features (e.g., file uploads).
 - Designed to showcase professional-grade reporting, modularity, and scalability.
 
 
