@@ -1,3 +1,5 @@
+#Featured Projects
+
 ### [The Internet Automated Test Suite](https://github.com/tulloch022/automating-theinternet)
 - A Playwright-based test suite for the demo site, **The Internet**.
 - Includes 15 tests covering:
