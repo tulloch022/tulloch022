@@ -2,8 +2,6 @@
 
 I am the founder and lead developer of [Marathoner](https://github.com/marathoner-app/marathoner), an actively developed training companion for runners preparing for a first marathon.
 
-I am building the project in public through small, understandable changes.
-
 ## Marathoner
 
 Marathoner brings planning, run tracking, and training analysis together across a responsive web app and iOS companion. The current pre-beta product includes runner setup, guarded plan generation for eligible closed-beta accounts, manual and automatic run import from Apple Health and Garmin, shoe tracking, and mileage, pace, and run-count analysis.
