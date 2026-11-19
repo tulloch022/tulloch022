@@ -1,17 +1,19 @@
 # Kevin Tulloch
 
-I am the founder and lead developer of [Marathoner](https://github.com/tulloch022/marathoner), a focused workspace for planning, tracking, and understanding marathon training.
+I am the founder and lead developer of [Marathoner](https://github.com/marathoner-app/marathoner), an actively developed training companion for runners preparing for a first marathon.
 
-I am building the project in public through small, understandable changes. The current [Foundation milestone](https://github.com/tulloch022/marathoner/milestone/1) is establishing dependable architecture, testing, connected training data, and a contributor-ready workflow.
+I am building the project in public through small, understandable changes.
 
 ## Marathoner
 
-Marathoner is a foundation-stage React and TypeScript training companion for runners preparing for a marathon. The current prototype includes a 20-week workout calendar, run and shoe logging, analytics previews, and Firebase authentication.
+Marathoner brings planning, run tracking, and training analysis together across a responsive web app and iOS companion. The current pre-beta product includes runner setup, guarded plan generation for eligible closed-beta accounts, manual and automatic run import from Apple Health and Garmin, shoe tracking, and mileage, pace, and run-count analysis.
 
-- [Project repository](https://github.com/tulloch022/marathoner)
+The product is deployed for internal testing and is working toward a conditional, invite-only TestFlight beta for five to eight allowlisted adults. Public signup and beta invitations are not open yet.
+
+- [Project repository](https://github.com/marathoner-app/marathoner)
+- [Current project status](https://github.com/marathoner-app/marathoner#project-status)
+- [Open issues](https://github.com/marathoner-app/marathoner/issues)
 - [Marathoner organization](https://github.com/marathoner-app)
-- [Foundation milestone](https://github.com/tulloch022/marathoner/milestone/1)
-- [Open issues](https://github.com/tulloch022/marathoner/issues)
 
 ## Earlier work
 
